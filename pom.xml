@@ -17,8 +17,8 @@
    
   </dependencies>
   <build>
-    <finalName>maven-web-app</finalName>
-	<finalNames>Ravi</finalNames>
+    <finalName>maven-web-application</finalName>
+	
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
